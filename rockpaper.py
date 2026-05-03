@@ -20,7 +20,7 @@ while True:
         or user_data == "s"
         and data == "p"
         or user_data == "p"
-        and data == "raise"
+        and data == "r"
     ):
         print ("You won!!")
         break
